@@ -12,6 +12,7 @@ Footprinting a Target Network Using the Ping Utility
 ----------------------------------------------------
 
 
+
 Footprinting a Target Network Using the nslookup Tool
 -----------------------------------------------------
 
@@ -37,4 +38,21 @@ Tracing an Email Using the eMailTrackerPro Tool
 
 
 Collecting Information about a Target Website Using Firebug
+-----------------------------------------------------------
+
+
+
+Mirroring Website Using HTTrack Web Site Copier Tool
+-----------------------------------------------------------
+
+
+Extracting Company’s Data Using Web Data Extractor
+-----------------------------------------------------------
+
+
+Identifying Vulnerabilities and Information Disclosures 111 Search Engines using Search Diggity
+-----------------------------------------------------------
+
+
+Mcfee Visual Trace (from Courseware lab)
 -----------------------------------------------------------
